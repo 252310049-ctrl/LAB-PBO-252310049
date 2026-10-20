@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Quiz {
+module Latihan_Tugas_1 {
 }
