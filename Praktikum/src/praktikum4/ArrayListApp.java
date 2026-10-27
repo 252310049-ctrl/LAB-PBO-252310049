@@ -26,6 +26,9 @@ public class ArrayListApp {
 		System.out.println("List Nama: ");
 		for (int i = 0; i < nama.size(); i++) {
 			System.out.println(nama.get(i));
+			
+			nama.clear(); // menghapus semua data
+			System.out.println(nama.size());
 		}
 	}
 }
